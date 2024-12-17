@@ -1,8 +1,12 @@
 body{
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     text-align: center;
     font-size: 16px;
-    font-family: courier;
+    font-family: arial;
 }
 #cabecera{
     background-color: #33A;
